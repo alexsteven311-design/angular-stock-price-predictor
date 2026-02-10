@@ -5,14 +5,14 @@ A full-stack application that predicts future stock prices using machine learnin
 
 An end-to-end **Stock Price Prediction application** built using **Angular** for the frontend and **Machine Learning API** for backend predictions.
 
-## 🚀 Features
+##  Features
 - Predict future stock prices based on historical data
 - Interactive line chart visualization
 - User inputs stock ticker and prediction days
 - Real-time API integration
 - Clean and responsive UI
 
-## 🛠️ Tech Stack
+##  Tech Stack
 **Frontend**
 - Angular
 - TypeScript
@@ -27,7 +27,7 @@ An end-to-end **Stock Price Prediction application** built using **Angular** for
 ## 📊 Demo Screenshot
 ![Dashboard](https://github.com/alexsteven311-design/angular-stock-price-predictor/blob/main/Prediction-chart.png?raw=true)
 
-## ⚙️ How It Works
+##  How It Works
 1. User enters stock symbol (e.g., AAPL)
 2. Selects number of days for prediction
 3. Angular sends request to backend API
