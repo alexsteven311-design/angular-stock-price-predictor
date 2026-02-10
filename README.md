@@ -1,4 +1,4 @@
-# angular-stock-price-predictor
+# Angular-stock-price-predictor
 A full-stack application that predicts future stock prices using machine learning and visualizes results using Angular.
 
 # 📈 Stock Price Prediction Web App
