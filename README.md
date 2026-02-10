@@ -21,7 +21,7 @@ An end-to-end **Stock Price Prediction application** built using **Angular** for
 
 **Backend**
 - Python
-- FastAPI / Flask
+- FastAPI 
 - Machine Learning (Regression / LSTM)
 
 ## 📊 Demo Screenshot
